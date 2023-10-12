@@ -17,4 +17,4 @@ Informações de todas as modificações feitas em nossos Plugins.
 - Addpk Fixado
 - Função das Messagens de Comandos do jogo, adicionado ao Message.txt
 - Fix Leitura de Terrains Maps Limit 27
-- Box Customs com os ID: 27 e 28 Renomedas para Box of Green Ribbon e Box of Blue Ribbon
+- Box Customs com os ID: 27 e 28 Renomeadas para Box of Green Ribbon e Box of Blue Ribbon
