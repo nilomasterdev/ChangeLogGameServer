@@ -3,12 +3,10 @@ Informações de todas as modificações feitas em nossos Plugins.
 
 //==================================================== <br />
 //	CMZone Server 0.97x Changelog - Update 01<br />
-//	GameServer: 0.96.40T<br />		 
+//	Versão GameServer: 0.96.40T<br />		 
 //	Data: 09/10/2023 - 19:00<br />	
-//  Creditos Source: Maykon FireTem<br /> 
+//  Créditos Source: Maykon FireTem<br /> 
 //  Modificações: Nilo Master CMZone<br />
-//====================================================<br />
-//  Modificações no GameServer<br />
 //====================================================<br />
 
 - Habilitar / Desabilitar Anúncios de Vips.
