@@ -2,7 +2,7 @@
 Informações de todas as modificações feitas em nossos Plugins.
 
 //==================================================== <br />
-//	CMZone Server 0.97x Changelog - Update 01<br />
+//	CMZone Server 0.97x Changelog - Update 01<br /> 
 //	Versão GameServer: 0.96.40T<br />		 
 //	Data: 09/10/2023 - 19:00<br />	
 //  Créditos Source: Maykon FireTem<br /> 
